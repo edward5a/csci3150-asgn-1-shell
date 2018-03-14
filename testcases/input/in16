@@ -1,0 +1,4 @@
+push /tmp
+push /dev
+pop
+pop

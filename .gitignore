@@ -1,0 +1,22 @@
+#ignore All
+/*
+
+
+#unignore all with extension
+!*.*
+
+#unignore all directories
+!*/
+#unignore Makefile
+!Makefile
+
+#unignore demo
+!demo-asg1
+
+#unignore hello
+!hello
+# Ignore DS STORE
+.DS_STORE
+
+# Ignore Output Folder
+output/
